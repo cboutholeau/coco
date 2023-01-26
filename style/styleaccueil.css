@@ -72,19 +72,18 @@ table {
 /* || header layout */
 
 header {
-  height: min_content;
-  padding : 3px
+  height: 100px;
 }
 
 /* || nav layout */
 
 nav {
-  height: min_content;
+  height: 30px;
   background-color: rgba(70, 130, 180, 0.8);
   display: flex;
   margin-top: 0px;
   margin-bottom: 15px;
-  padding: 3px;
+  padding: 1%;
 }
 
 nav li {
