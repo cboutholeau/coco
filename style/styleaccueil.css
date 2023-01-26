@@ -72,7 +72,8 @@ table {
 /* || header layout */
 
 header {
-  height: 100px;
+  height: min_content;
+  padding : 3px
 }
 
 /* || nav layout */
